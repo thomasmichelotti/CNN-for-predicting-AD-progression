@@ -80,7 +80,6 @@ Configuration files and main files:
 
 Thesis:
 
-My thesis will be uploaded here when it is finished.
-To reproduce the results in my thesis, it is necessary to use the CNN weight initialisations that I will upload in the A_DataFiles directory.
+Final version of my Master's thesis
 
 #######################################
